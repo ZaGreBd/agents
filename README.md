@@ -1,5 +1,4 @@
-###﻿ Instructions
-
+## Instructions
 
 ## GUIDE
 https://efficient-sloth-d85.notion.site/NLW-Agents-21b395da57708010b523fa89c461ba29
