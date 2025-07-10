@@ -30,3 +30,9 @@ npm i postgres
 
 npm i drizzle-orm
 npm i drizzle-kit -D
+
+npx drizzle-kit generate
+npx drizzle-kit migrate
+npx drizzle-kit studio
+
+npm i drizzle-seed -D
