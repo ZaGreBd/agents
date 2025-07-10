@@ -8,7 +8,7 @@ vscode
 node
 Docker
 
-## VSCODE
+## VSCODE EXTENSIONS
 Biome
 REST Client
 Tailwind CSS IntelliSense
